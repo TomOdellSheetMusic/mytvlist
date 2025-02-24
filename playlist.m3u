@@ -36,3 +36,4 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 -vco
 #EXTINF:-1 tvg-name="Lilo.TV" tvg-id="lilo.tv" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png",Lilo.TV
 https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Lilo.TV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8 -vcodec copy -acodec copy -metadata service_name=Nickelodeon 
